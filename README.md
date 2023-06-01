@@ -25,3 +25,5 @@ Files can be uploaded through curl or any other program that can create http req
 # curl
 curl -X POST -F 'file=@<File-path-here>' -H 'key: <Your-configured-key-here>' <shio-url>
 ```
+
+### ⭐ Leave a star if you like it
