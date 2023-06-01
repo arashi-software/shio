@@ -17,7 +17,14 @@ Shio is configured in a json file. The json file is found in the shio directory 
 }
 ```
 
-## Upload files
+## Usage
+You can run shio by simply running the executable
+```sh
+shio
+```
+
+**Shio will be run on port 5000**
+
 Files can be uploaded through curl or any other program that can create http requests.
 - You must make a post request with a file
 - You must provide the key that you have configured (if use_key is true in your config) as the key header
