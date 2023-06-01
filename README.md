@@ -1,5 +1,5 @@
 # shio - シオ
-👑 *The light and fast file server* 
+*👑 The light and fast file server* 
 
 ## Installation
 Shio can be installed from source, or from docker. You will need nim installed on your system to build it
